@@ -1,0 +1,57 @@
+[
+    {
+        "description": "Cooling tower: oil, grease, check belts",
+        "frequency_days": 30,
+        "next_execution_date": "2026-01-03"
+    },
+    {
+        "description": "Wipe the top welder filter",
+        "frequency_days": 60,
+        "next_execution_date": "2026-01-18"
+    },
+    {
+        "description": "Put air oil into balance cylinders on presses, rivet machines.",
+        "frequency_days": 7,
+        "next_execution_date": "2026-01-22"
+    },
+    {
+        "description": "Blow the cardboard shredder",
+        "frequency_days": 14,
+        "next_execution_date": "2026-01-29"
+    },
+    {
+        "description": "Take out waste oil in plastic department",
+        "frequency_days": 14,
+        "next_execution_date": "2026-01-29"
+    },
+    {
+        "description": "Oil check list",
+        "frequency_days": 7,
+        "next_execution_date": "2026-01-29"
+    },
+    {
+        "description": "Drain the water on the compressor.",
+        "frequency_days": 1,
+        "next_execution_date": "2026-01-30"
+    },
+    {
+        "description": "Pour Biotech I and Biotech V into big tank under stairs",
+        "frequency_days": 7,
+        "next_execution_date": "2026-02-03"
+    },
+    {
+        "description": "Replace 4 welder filters",
+        "frequency_days": 180,
+        "next_execution_date": "2026-03-19"
+    },
+    {
+        "description": "Take out a chuck from CNC milling machine, strip it, clean it (do not grease)",
+        "frequency_days": 182,
+        "next_execution_date": "2026-04-29"
+    },
+    {
+        "description": "Replace separator on the compressor.",
+        "frequency_days": 365,
+        "next_execution_date": "2026-10-28"
+    }
+]
