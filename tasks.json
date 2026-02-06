@@ -20,11 +20,6 @@
         "next_execution_date": "2026-01-29"
     },
     {
-        "description": "Take out waste oil in plastic department",
-        "frequency_days": 14,
-        "next_execution_date": "2026-01-29"
-    },
-    {
         "description": "Oil check list",
         "frequency_days": 7,
         "next_execution_date": "2026-01-29"
@@ -38,6 +33,11 @@
         "description": "Pour Biotech I and Biotech V into big tank under stairs",
         "frequency_days": 7,
         "next_execution_date": "2026-02-10"
+    },
+    {
+        "description": "Take out waste oil in plastic department",
+        "frequency_days": 14,
+        "next_execution_date": "2026-02-12"
     },
     {
         "description": "Replace 4 welder filters",
