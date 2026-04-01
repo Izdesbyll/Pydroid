@@ -15,24 +15,24 @@
         "next_execution_date": "2026-01-29"
     },
     {
-        "description": "Drain the water on the compressor.",
-        "frequency_days": 1,
-        "next_execution_date": "2026-02-07"
-    },
-    {
-        "description": "Pour Biotech I and Biotech V into big tank under stairs",
+        "description": "Put air oil into balance cylinders on presses, rivet machines.",
         "frequency_days": 7,
-        "next_execution_date": "2026-02-10"
+        "next_execution_date": "2026-03-05"
     },
     {
         "description": "Take out waste oil in plastic department",
         "frequency_days": 14,
-        "next_execution_date": "2026-02-12"
+        "next_execution_date": "2026-03-12"
     },
     {
-        "description": "Put air oil into balance cylinders on presses, rivet machines.",
+        "description": "Drain the water on the compressor.",
+        "frequency_days": 1,
+        "next_execution_date": "2026-04-02"
+    },
+    {
+        "description": "Pour Biotech I and Biotech V into big tank under stairs",
         "frequency_days": 7,
-        "next_execution_date": "2026-03-05"
+        "next_execution_date": "2026-04-07"
     },
     {
         "description": "Take out a chuck from CNC milling machine, strip it, clean it (do not grease)",
