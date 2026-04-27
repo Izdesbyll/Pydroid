@@ -2,7 +2,7 @@ import random
 
 # Example 1: Random integer between 1 and 10 (inclusive)
 min_val = 1
-max_val = 1333
+max_val = 1453
 random_integer = random.randint(min_val, max_val)
 print(f"Номер сторінки: {random_integer}")
 

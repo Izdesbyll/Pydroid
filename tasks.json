@@ -10,11 +10,6 @@
         "next_execution_date": "2026-01-29"
     },
     {
-        "description": "Oil check list",
-        "frequency_days": 7,
-        "next_execution_date": "2026-01-29"
-    },
-    {
         "description": "Put air oil into balance cylinders on presses, rivet machines.",
         "frequency_days": 7,
         "next_execution_date": "2026-03-05"
@@ -27,17 +22,22 @@
     {
         "description": "Drain the water on the compressor.",
         "frequency_days": 1,
-        "next_execution_date": "2026-04-02"
-    },
-    {
-        "description": "Pour Biotech I and Biotech V into big tank under stairs",
-        "frequency_days": 7,
-        "next_execution_date": "2026-04-07"
+        "next_execution_date": "2026-04-28"
     },
     {
         "description": "Take out a chuck from CNC milling machine, strip it, clean it (do not grease)",
         "frequency_days": 182,
         "next_execution_date": "2026-04-29"
+    },
+    {
+        "description": "Oil check list",
+        "frequency_days": 7,
+        "next_execution_date": "2026-04-30"
+    },
+    {
+        "description": "Pour Biotech I and Biotech V into big tank under stairs",
+        "frequency_days": 7,
+        "next_execution_date": "2026-05-05"
     },
     {
         "description": "Wipe the top welder filter",
