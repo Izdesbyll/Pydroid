@@ -15,11 +15,6 @@
         "next_execution_date": "2026-03-05"
     },
     {
-        "description": "Drain the water on the compressor.",
-        "frequency_days": 1,
-        "next_execution_date": "2026-05-05"
-    },
-    {
         "description": "Take out waste oil in plastic department",
         "frequency_days": 14,
         "next_execution_date": "2026-05-07"
@@ -28,6 +23,11 @@
         "description": "Oil check list",
         "frequency_days": 7,
         "next_execution_date": "2026-05-07"
+    },
+    {
+        "description": "Drain the water on the compressor.",
+        "frequency_days": 1,
+        "next_execution_date": "2026-05-08"
     },
     {
         "description": "Pour Biotech I and Biotech V into big tank under stairs",
