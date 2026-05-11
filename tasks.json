@@ -27,17 +27,17 @@
     {
         "description": "Drain the water on the compressor.",
         "frequency_days": 1,
-        "next_execution_date": "2026-05-08"
-    },
-    {
-        "description": "Pour Biotech I and Biotech V into big tank under stairs",
-        "frequency_days": 7,
-        "next_execution_date": "2026-05-12"
+        "next_execution_date": "2026-05-11"
     },
     {
         "description": "Wipe the top welder filter",
         "frequency_days": 60,
         "next_execution_date": "2026-05-18"
+    },
+    {
+        "description": "Pour Biotech I and Biotech V into big tank under stairs",
+        "frequency_days": 7,
+        "next_execution_date": "2026-05-19"
     },
     {
         "description": "Replace air filter in hopper dryer #36",
