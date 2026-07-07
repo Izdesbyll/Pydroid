@@ -20,19 +20,14 @@
         "next_execution_date": "2026-06-02"
     },
     {
-        "description": "Drain the water on the compressor.",
-        "frequency_days": 1,
-        "next_execution_date": "2026-06-30"
-    },
-    {
         "description": "Take out waste oil in plastic department",
         "frequency_days": 14,
         "next_execution_date": "2026-07-02"
     },
     {
-        "description": "Pour Biotech I and Biotech V into big tank under stairs",
-        "frequency_days": 7,
-        "next_execution_date": "2026-07-07"
+        "description": "Drain the water on the compressor.",
+        "frequency_days": 1,
+        "next_execution_date": "2026-07-08"
     },
     {
         "description": "Oil check list",
@@ -43,6 +38,11 @@
         "description": "Put air oil into balance cylinders on presses, rivet machines.",
         "frequency_days": 7,
         "next_execution_date": "2026-07-09"
+    },
+    {
+        "description": "Pour Biotech I and Biotech V into big tank under stairs",
+        "frequency_days": 7,
+        "next_execution_date": "2026-07-14"
     },
     {
         "description": "Replace 4 welder filters",
