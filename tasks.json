@@ -15,11 +15,6 @@
         "next_execution_date": "2026-05-28"
     },
     {
-        "description": "Cooling tower: oil, grease, check belts",
-        "frequency_days": 30,
-        "next_execution_date": "2026-06-02"
-    },
-    {
         "description": "Take out waste oil in plastic department",
         "frequency_days": 14,
         "next_execution_date": "2026-07-02"
@@ -43,6 +38,11 @@
         "description": "Pour Biotech I and Biotech V into big tank under stairs",
         "frequency_days": 7,
         "next_execution_date": "2026-07-14"
+    },
+    {
+        "description": "Cooling tower: oil, grease, check belts",
+        "frequency_days": 30,
+        "next_execution_date": "2026-08-01"
     },
     {
         "description": "Replace 4 welder filters",
