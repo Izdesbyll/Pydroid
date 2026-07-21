@@ -12,7 +12,7 @@ CHOICES = {
         "local news", "home + food", "sports"
     ],
     "Britain": [
-        "iplayer", "sports", "Merry Christmas!", "movies", "crime drama",
+        "iplayer", "sports", "movies", "crime drama",
         "bingeable drama", "sci-fi & fantasy", "comedy", "true crime",
         "entertainment", "classic tv", "reality", "real life adventure",
         "documentaries", "living", "news", "paranormal"
