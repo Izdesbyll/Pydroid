@@ -18,7 +18,7 @@ CHOICES = {
         "documentaries", "living", "news", "paranormal"
     ],
     "USA": [
-        "movies", "season's greetings", "comedy", "classic tv", "westerns",
+        "movies", "comedy", "classic tv", "westerns",
         "sci-fi", "drama", "true crime", "reality", "competition reality",
         "entertainment", "daytime + game shows", "news + opinion", "sports",
         "history + science", "home + food", "animals + nature", "local news"
