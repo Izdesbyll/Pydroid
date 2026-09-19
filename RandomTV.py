@@ -6,7 +6,7 @@ import time
 CHOICES = {
     "Canada": [
         "season's greetings", "movies", "comedy", "south park", "classic tv comedy",
-        "classic tv", "westerns", "crime drama", "true crime", "sci-fi",
+        "classic tv", "westerns", "crime drama", "true crime",
         "house of horror", "drama", "reality", "competition reality", "game shows",
         "daytime & talk shows", "documentary + science", "news + opinion",
         "local news", "home + food", "sports"
