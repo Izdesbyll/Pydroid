@@ -13,13 +13,13 @@ artifact_root = wn.synset('artifact.n.01')
 # Loop through all noun synsets starting with 'a'
 for synset in wn.all_synsets(wn.NOUN):
     name = synset.name().split('.')[0]
-    if name.startswith('c'):
+    if name.startswith('z'):
         # Check if the noun is a subclass of a physical artifact/object
         hypernyms = synset.closure(lambda s: s.hypernyms())
         if artifact_root in hypernyms or synset == artifact_root:
             for lemma in synset.lemmas():
                 clean_word = lemma.name().replace('_', ' ').strip().title()
-                if clean_word.lower().startswith('c'):
+                if clean_word.lower().startswith('z'):
                     a_items.add(clean_word)
 
 # Save formatted list to text file
